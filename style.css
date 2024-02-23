@@ -1,3 +1,14 @@
 body {
     font-family: poppins;
 }
+
+#css {
+    font-variant: large;
+    font-size: medium;
+    font-style: italic;
+}
+
+p 
+{
+    font-size: 15px;
+}
